@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2016.1.20)  24 JAN 2016 13:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2016.1.20)  24 JAN 2016 13:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -123,11 +123,6 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 8.
 
-Overfull \hbox (0.68216pt too wide) in paragraph at lines 8--43
-[][] 
- []
-
-
 LaTeX Warning: Float too large for page by 83.62723pt on input line 43.
 
 
@@ -137,14 +132,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Here is how much of TeX's memory you used:
  814 strings out of 493054
  12599 string characters out of 6140586
- 271980 words of memory out of 5000000
+ 264750 words of memory out of 5000000
  4393 multiletter control sequences out of 15000+600000
  5004 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,10n,32p,230b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,10n,32p,230b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/
 share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on calender.pdf (1 page, 17087 bytes).
+Output written on calender.pdf (1 page, 17016 bytes).
 PDF statistics:
  12 PDF objects out of 1000 (max. 8388607)
  7 compressed objects within 1 object stream
